@@ -1,5 +1,5 @@
 function show(type)
-{
+{ 
     count = 0;
     for (var key in methods) {
         var row = document.getElementById(key);
